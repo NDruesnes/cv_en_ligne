@@ -36,6 +36,9 @@ footer a{
   white-space: nowrap;
   overflow: hidden;
 }
+#hardskills{
+  margin-left: 15px;
+}
 
 
 @keyframes typing {
@@ -109,5 +112,8 @@ footer a{
   }
   .card-text{
     font-size: 1.3em;
+  }
+  #hardskills{
+    margin-left: 0;
   }
  }
